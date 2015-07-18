@@ -1,4 +1,4 @@
-# Application.FileSearch class replacement
+# Application.FileSearch replacement
 
 `YtoFileSearch` is a VBA class replacement for the `Application.FileSearch` object that was deprecated with Office 2007.
 
